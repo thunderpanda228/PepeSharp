@@ -1,0 +1,242 @@
+body{
+    background-color: #F1FAEE;
+}
+main{
+    width: 1460px;
+
+    margin: auto;
+    border-radius: 60px;
+
+}
+
+.split{
+ width: 3px;
+    height: 70px;
+    background:#F2D492 ;
+    margin-left: 41px ;
+}
+
+.logo{
+    width: 70px;
+    height: 70px;
+}
+.content{
+    background-color: #202C39;
+}
+header{
+    height: 200px;
+    width: 1460px;
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.logo1{
+    margin-top: 68px;
+    margin-left: 185px;
+    display: flex;
+    justify-content: left;
+}
+.name{
+    height: 30px;
+    width: 192px;
+    margin-left: 41px;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+margin-top: 20px;
+    color: #F2D492;
+    font-weight: bolder;
+}
+
+.one{
+height: 5px;
+    width: 40px;
+    background: #F2D492;
+    margin-bottom: 8px;
+    border-radius: 2px;
+
+
+}
+.menu{
+    padding-top: 90px;
+    margin-right: 194px;
+}
+
+.content1{
+    margin: auto;
+    margin-top: 159px;
+    width: 1081px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+
+    background-color: #202C39 ;
+
+
+}
+.contxt1{
+    color: #B8B08D ;
+    font-size: 30px;
+    margin: auto;
+    padding-right: 118px;
+    font-family: "Manrope ExtraLight";
+
+}
+
+.content3{
+    margin: auto;
+    margin-top: 159px;
+    width: 1081px;
+    height: 400px;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 170px;
+
+    background-color: #202C39 ;}
+
+.contxt3{
+    color: #B8B08D ;
+    font-size: 30px;
+    margin: auto;
+    padding-left: 118px;
+    font-family: "Manrope ExtraLight";
+
+}
+
+.slider{
+
+    width: 1460px;
+
+    margin: auto;
+    margin-top: 300px;
+
+
+
+
+}
+
+.Gallery{
+    font-size: 52px;
+    font-family: "Montserrat ExtraBold";
+    color: #202C39;
+}
+
+.hdr{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 125px;
+}
+
+.pepe{
+    height: 500px;
+    width: 400px;
+    border-radius: 60px ;
+}
+
+.GalPepe{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 300px;
+}
+
+.btn{
+    border: none;
+    background: none;
+    width: 100px;
+    height: 100px;
+
+}
+
+
+
+.BoutPepe{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 300px;
+    height: 900px;
+    width: 1460px;
+    background: url(".idea/backgroundpepe.png");
+    border-radius: 60px;
+    flex-direction: column;
+    margin-bottom: 440px;
+}
+
+h1{
+    margin: 0 auto;
+    margin-top: 40px;
+    font-size: 50px;
+    font-family: "Manrope";
+    font-weight: bold;
+    color: #F1FAEE;
+    display: flex;
+    justify-content: center;
+}
+.p{
+    display: flex;
+    width: 1350px;
+    height: 335px;
+    margin: auto;
+    flex-direction: row;
+    justify-content: space-around ;
+    font-size: 32px;
+
+}
+
+.p1{
+    height: 300px;
+    width: 375px;
+    font-family: "Times New Roman";
+    font-weight: normal;
+    color: #B8B08D;
+}
+
+.element1{
+    height: 500px;
+    width: 400px;
+    background: #B8B08D;
+    border-radius: 60px;
+}
+.element2{
+    height: 400px;
+    width: 400px;
+    background: #B8B08D;
+    border-radius: 60px;
+}
+.element3{
+    height: 300px;
+    width: 400px;
+    background: #B8B08D;
+    border-radius: 60px;
+}
+
+
+.clicker{
+    display: flex;
+
+    width: 1460px;
+    height: 900px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.row1{
+    display: flex;
+    gap: 130px;
+}
+.row2{
+display: flex;
+    gap: 130px;
+    align-items: flex-end;
+}
+
+footer{
+    width: 1460px;
+    margin: auto;
+    margin-top: 680px;
+    font-size: 44px;
+    display: flex;
+    justify-content: center;
+
+}
